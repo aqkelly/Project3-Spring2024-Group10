@@ -5,17 +5,20 @@
 
 Term: Fall 2022
 
-+ Team ##
++ Team 10
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
+	+ Jiaqi Lu
+	+ Yonghao Xu
+	+ Jia Wei
 	+ team member 4
 	+ team member 5
 
-+ Project summary: In this project, we created ...
++ Project summary: In this project, we created an CNN model with 3 layers for classification. In model 2, we define a label cleaning network.
 	
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**: 
++ Jiaqi Lu: Model1, Model2
++ Yonghao Xu: Model1, Model2
++ Jia Wei
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
