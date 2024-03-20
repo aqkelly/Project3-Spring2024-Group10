@@ -19,7 +19,7 @@ Term: Fall 2022
 + Yonghao Xu: Model1, Model2
 + Jia Wei
 
-Jiaqi and Yonghao write model 1 together and tried several ways to "add model and procedures" in model 2, and decided the best way, ie, the label cleaning network. The other methods included adding layers to CNN, address the overfitting in CNN, adding another loss function, etc.
+Jiaqi and Yonghao write model 1 together and tried several ways to "add model and procedures" in model 2, and decided the best way, ie, the label cleaning network. The other methods included adding layers to CNN, address the overfitting in CNN, adding robust loss functions, loss functions, data augmentation, layers normalization, etc. It approximate cost 10 hours on coding trials.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
