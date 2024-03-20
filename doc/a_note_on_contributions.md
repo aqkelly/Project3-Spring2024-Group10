@@ -9,12 +9,12 @@ Post your title, team members, project abstract and a contribution statement in 
 Below is an example. If no contribution statement is provided, we will insert a default statement that goes "**All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement**. "
 
 ---
-Sample project README statement.
+Project 3
 
-Project xxx
+Team members: Jiaqi Lu, Yonghao Xu, Lei Bao, Ada Wei
 
-Team members: Avi Bond, Comma Deed, En Funn, Gem Hon
+Summary: In this project, we developed a weakly supervised learning strategy and improved the classification accuracy for images 80%.
 
-Summary: In this project, we developed a new method and improved the classification accuracy for images of cats and dogs to 99.9%
+[Contribution Statement] Jiaqi and Yonghao designed the study. They first built up a base CNN model, then they spend more than 10 hours in model 2. They first used the principle of weakly supervised learning, but with a misunderstanding that they just used a linear model after the CNN model. This method clearly failed, then Yonghao spend time researching and trying to find the best way of improving model1, while Jiaqi reread the weakly supervised learning tutorial and the given paper (Inoue et al. (2017)). In this section, Yonghao tried 3+ different methods, including adding a new loss function, adding a new layer to the CNN model and handle with the overfitting issue. Jiaqi, on the other hand, spend all her time to write a correct label cleaning network schema and overcome many coding error, the most common one is dimension different. After all the effort, they developed the label cleaning network.
 
-[Contribution Statement] AB, CD, EF and GH designed the study. AB and CD developed baseline classification model for evaluation. EF and GH explored feature engineering for improving the baseline model. AB, EF and GH discussed and designed the model evaluation protocol. CD carried out the computation for model evaluation. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.
+Lei is the persentor of this project. Her went to Jiaqi place on Monday and asked her questions about the project. She also tried to help Jiaqi with their model 2 and came out with some ideas, though all ideas were defeated by label cleaning network. 
